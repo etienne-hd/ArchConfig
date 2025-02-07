@@ -24,6 +24,7 @@ My icons is set to **[Breeze Dark](https://github.com/KDE/breeze)**.
 
 ### Cursors
 My cursors is set to **Bibata-Modern-Ice**, it look like this:
+
 ![](cursor.png)
 
 ### Spash Screen
@@ -38,6 +39,7 @@ The wallpaper is the default one from the **[Dracula](https://draculatheme.com/)
 
 # Fonts
 Here is my **fonts** config:
+
 ![](fonts.png)
 
 # Taskbar
@@ -53,4 +55,5 @@ The Thermal Monitor shows my CPU & GPU temperature.
 
 # Mouse
 Here is my **mouse** config:
+
 ![](mouse.png)
